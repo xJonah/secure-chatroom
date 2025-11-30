@@ -1,3 +1,3 @@
-# SecureJavaChatRoom
+# Secure Chatroom
 
-TCP Chat Room created using Java. Security features implented include SSL/TLS, password authentication, DoS protection, and spam timeouts.
+TCP chat Room created using Java WebSocket. Security features implemented include SSL/TLS, password authentication, DoS protection, and spam timeouts.
